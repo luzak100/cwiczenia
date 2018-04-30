@@ -1,0 +1,7 @@
+print (dir(dict))
+
+
+
+
+
+
